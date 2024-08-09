@@ -1,0 +1,89 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+/*navbar{background-color:#deebf7}
+.logo-colors{
+  #05388a
+  #52b7c5
+}
+*/
+.navbar-brand { /* Adjust selector if using Navbar.Brand */
+  font-family: 'Open Sans', sans-serif;
+}
+.navbar-brand span{
+  margin-left: 10px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    color: #52b7c5
+}
+button{
+  background-color:#52b7c5 !important;
+}
+.Button{
+  background-color:#52b7c5 !important;
+}
+.button-link {
+  /* Button styling properties */
+  background-color: #52b7c5; /* Change background color as needed */
+  color: white; /* Change text color as needed */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px; /* Add rounded corners */
+  cursor: pointer; /* Indicate clickable behavior */
+  text-decoration: none; /* Remove underline from anchor tag */
+}
+
+.image-container {
+  position: relative;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin:5%;
+}
+
+.icons > * {
+  color: black;  // Adjust the color if needed
+}
+
+.icons > *:not(:last-child) {
+  margin-right: 0.5rem;
+}
+.library{
+ color: #52b7c5 !important;
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large !important;
+    font-weight: 500 !important;
+}/* Add this to your CSS file or inside a <style> tag in your component */
+
+.exercise-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 300px; /* Adjust the height as needed */
+}
+
+.image-container {
+  height: 150px; /* Adjust the height as needed */
+  overflow: hidden;
+}
+
+.exercise-card .card-body {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.exercise-card .card-title {
+  text-overflow: ellipsis;
+  white-space: nowrap !important;
+  overflow: hidden;
+  width: 100%;
+}

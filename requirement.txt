@@ -1,0 +1,17 @@
+SAS Token
+?sv=2019-02-02&spr=https%2Chttp&st=2024-05-13T15%3A04%3A36Z&se=2024-07-14T15%3A04%3A00Z&sp=raud&sig=yzWzNCctUAtTYqDoURyA40hj0CnWneCsHqxnY8Nch%2Bg%3D&tn=sbxExerciseLibrary
+
+SAS URL
+https://exerciseslib.table.core.windows.net/sbxExerciseLibrary?sv=2019-02-02&spr=https%2Chttp&st=2024-05-13T15%3A04%3A36Z&se=2024-07-14T15%3A04%3A00Z&sp=raud&sig=yzWzNCctUAtTYqDoURyA40hj0CnWneCsHqxnY8Nch%2Bg%3D&tn=sbxExerciseLibrary
+
+Videos:
+
+storageexplorer://v=1&accountid=%2Fsubscriptions%2Fa6ebcf65-3ea5-41df-829d-fd0933b75b33%2FresourceGroups%2FPhysioActivitySbx%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fexerciseslib&subscriptionid=a6ebcf65-3ea5-41df-829d-fd0933b75b33&resourcetype=Azure.FileShare&resourcename=videos
+
+jpg:
+
+storageexplorer://v=1&accountid=%2Fsubscriptions%2Fa6ebcf65-3ea5-41df-829d-fd0933b75b33%2FresourceGroups%2FPhysioActivitySbx%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fexerciseslib&subscriptionid=a6ebcf65-3ea5-41df-829d-fd0933b75b33&resourcetype=Azure.FileShare&resourcename=jpg
+
+gif:
+
+storageexplorer://v=1&accountid=%2Fsubscriptions%2Fa6ebcf65-3ea5-41df-829d-fd0933b75b33%2FresourceGroups%2FPhysioActivitySbx%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fexerciseslib&subscriptionid=a6ebcf65-3ea5-41df-829d-fd0933b75b33&resourcetype=Azure.FileShare&resourcename=gif
